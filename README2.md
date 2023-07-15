@@ -14,10 +14,13 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
 
 ## Getting Started
 
-### Dependencies
+### Perangkat Yang dibutuhkan
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Laptop dengan spesifikasi minimal:
+  * Prosesor 2 Core
+  * RAM 4GB
+  * Ruang Penyimpanan 10GB
+* Sistem Operasi Windows / Linux (Ubuntu) / Mac OS
 
 ### Installing
 
