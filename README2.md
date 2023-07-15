@@ -25,15 +25,17 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
 ### Installing
 
 #### Python
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
+* Download Anaconda / Mini Conda
+    > Anaconda: https://www.anaconda.com/download#downloads
+    
+    > Mini Conda: https://docs.conda.io/en/latest/miniconda.html
+* Install Anaconda / Mini Conda
 #### GNU Octave
 
-### Executing program
+### Menjalankan Program
 
-* How to run the program
-* Step-by-step bullets
+* Buat Environment Baru dengan perintah
+* Install Library Python Control
 ```
 code blocks for commands
 ```
