@@ -24,8 +24,11 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
 
 ### Installing
 
+#### Python
 * How/where to download your program
 * Any modifications needed to be made to files/folders
+
+#### GNU Octave
 
 ### Executing program
 
@@ -35,15 +38,8 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
 code blocks for commands
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
-* [@2black0](https://github.com/2black0)
+* [2black0](https://github.com/2black0)
 
 ## Version History
 
