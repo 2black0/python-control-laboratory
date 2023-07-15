@@ -12,9 +12,9 @@ Pada awal praktikum, mahasiswa akan diperkenalkan dengan dasar-dasar sistem kend
 
 Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana mereka akan diberikan permasalahan kontrol yang berbeda dan diminta untuk mengimplementasikan solusi menggunakan Python dan GNU Octave. Mahasiswa akan belajar menggunakan library atau paket yang relevan, seperti NumPy, SciPy, Control, dan Octave Control Systems Toolbox, untuk memudahkan analisis dan desain sistem kendali.
 
-## Getting Started
+## Memulai
 
-### Perangkat Yang dibutuhkan
+### Perangkat Keras Yang dibutuhkan
 
 * Laptop dengan spesifikasi minimal:
   * Prosesor 2 Core
@@ -22,7 +22,7 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
   * Ruang Penyimpanan 10GB
 * Sistem Operasi Windows / Linux (Ubuntu) / Mac OS
 
-### Installing
+### Pemasangan Perangkat Lunak
 
 #### Python
 * Download Anaconda / Mini Conda
@@ -40,7 +40,7 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
 code blocks for commands
 ```
 
-## Authors
+## Penyusun
 * [2black0](https://github.com/2black0)
 
 ## Version History
@@ -49,6 +49,6 @@ code blocks for commands
     * Versi Awal Python
     * Versi Awal GNU Octave
 
-## License
+## Lisensi
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
