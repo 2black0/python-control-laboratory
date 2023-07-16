@@ -25,9 +25,8 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
 ### Pemasangan Perangkat Lunak
 
 #### Python
-* Download Miniconda sesuai dengan Sistem Operasi yang digunakan pada link berikut
-    > Miniconda: https://docs.conda.io/en/latest/miniconda.html
-* Instalasi Miniconda
+* Download Miniconda sesuai dengan Sistem Operasi yang digunakan pada link berikut: https://docs.conda.io/en/latest/miniconda.html
+* Lakukan proses Instalasi Miniconda sesuai dengan sistem operasi yang digunakan
   * Windows: https://youtu.be/q3aRMvuZrjU
   * Linux : Coming Soon!
   * Mac OS : https://youtu.be/iFl8YYaq-rE
