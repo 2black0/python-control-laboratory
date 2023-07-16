@@ -26,9 +26,9 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
 
 #### Python
 Download Miniconda sesuai dengan Sistem Operasi yang digunakan pada link berikut: https://docs.conda.io/en/latest/miniconda.html dan lakukan proses instalasi sesuai dengan video tutorial berikut
-* Windows: https://youtu.be/q3aRMvuZrjU
-* Linux : Coming Soon!
-* Mac OS : https://youtu.be/iFl8YYaq-rE
+> Windows: https://youtu.be/q3aRMvuZrjU
+> Linux : Coming Soon!
+> Mac OS : https://youtu.be/iFl8YYaq-rE
 #### GNU Octave
 
 ### Menyiapkan Environment dan Library Python
