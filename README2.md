@@ -29,8 +29,8 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
     > Miniconda: https://docs.conda.io/en/latest/miniconda.html
 * Instalasi Miniconda
   * Windows: https://youtu.be/q3aRMvuZrjU
-  * Linux : https://youtu.be/iFl8YYaq-rE
-  * Mac OS
+  * Linux : Coming Soon!
+  * Mac OS : https://youtu.be/iFl8YYaq-rE
 #### GNU Octave
 
 ### Menjalankan Program
