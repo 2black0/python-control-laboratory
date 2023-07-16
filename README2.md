@@ -34,8 +34,11 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
 #### GNU Octave
 
 ### Menjalankan Program
-
+* Buka Terimal pada Mac OS / Linux dan Anaconda Prompt pada Windows
 * Buat Environment Baru dengan perintah
+    ```
+    conda create --name control python=3.9
+    ```
 * Install Library Python Control
 ```
 code blocks for commands
