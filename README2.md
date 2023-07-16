@@ -38,10 +38,14 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
     ```
     conda create --name control python=3.9
     ```
+* Aktifkan Environment dengan perintah
+    ```
+    conda activate control
+    ```
 * Install Library Python Control
-```
-code blocks for commands
-```
+    ```
+    conda install -c conda-forge control slycot
+    ```
 
 ## Penyusun
 * [2black0](https://github.com/2black0)
