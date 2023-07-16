@@ -25,14 +25,13 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
 ### Pemasangan Perangkat Lunak
 
 #### Python
-* Download Miniconda sesuai dengan Sistem Operasi yang digunakan pada link berikut: https://docs.conda.io/en/latest/miniconda.html
-* Lakukan proses Instalasi Miniconda sesuai dengan sistem operasi yang digunakan
+* Download Miniconda sesuai dengan Sistem Operasi yang digunakan pada link berikut: https://docs.conda.io/en/latest/miniconda.html dan lakukan proses instalasi sesuai dengan video tutorial berikut
   * Windows: https://youtu.be/q3aRMvuZrjU
   * Linux : Coming Soon!
   * Mac OS : https://youtu.be/iFl8YYaq-rE
 #### GNU Octave
 
-### Menjalankan Program
+### Menyiapkan Environment dan Library Python
 * Buka Terimal pada Mac OS / Linux dan Anaconda Prompt pada Windows
 * Buat Environment Baru dengan perintah
     ```
@@ -46,6 +45,8 @@ Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana me
     ```
     conda install -c conda-forge control slycot
     ```
+
+### Menyiapkan Paket GNU Octave
 
 ## Penyusun
 * [2black0](https://github.com/2black0)
