@@ -32,6 +32,7 @@ Mac OS : https://youtu.be/iFl8YYaq-rE<br>
 #### GNU Octave
 
 ### Menyiapkan Environment dan Library Python
+> Video Tutorial: https://youtu.be/XidmHRA29Xk
 * Buka Terimal pada Mac OS / Linux dan Anaconda Prompt pada Windows
 * Buat Environment Baru dengan perintah
     ```
