@@ -30,7 +30,10 @@ Download Miniconda sesuai dengan Sistem Operasi yang digunakan pada link berikut
 Linux : Coming Soon!<br>
 Mac OS : https://youtu.be/iFl8YYaq-rE<br>
 #### GNU Octave
-
+Download GNU Octave Installer pada link berikut: https://octave.org/download dan lakukan proses instalasi sesuai dengan video tutorial berikut
+> Windwos: https://youtu.be/XeNENyPvzNw<br>
+Linux : Coming Soon!<br>
+Mac OS : Coming Soon!<br>
 ### Menyiapkan Environment dan Library Python
 > Video Tutorial: https://youtu.be/XidmHRA29Xk
 * Buka Terimal pada Mac OS / Linux dan Anaconda Prompt pada Windows
