@@ -53,9 +53,19 @@ Mac OS : Coming Soon!<br>
     ```
     conda install -c anaconda jupyter
     ```
-
 ### Menyiapkan Paket GNU Octave
-
+> Video Tutorial: https://youtu.be/xHpKQUWihyU
+* Download File Control Module di link berikut: https://octave.sourceforge.io/control/
+* Buka GNU Octave GUI
+* Pada Command windows jalankan perintah
+    ```
+    pkg install control-3.5.0.tar.gz
+    ```
+* Tunggu hingga proses instalasi selesai
+* Check daftar module yang terinstall dengan perintah
+    ```
+    pkg list
+    ```
 ## Penyusun
 * [2black0](https://github.com/2black0)
 
