@@ -66,6 +66,10 @@ Mac OS : https://youtu.be/DahmsS2sVwk<br>
     ```
     pkg list
     ```
+## Daftar Labsheet
+- Labsheet 01: Preparation tool for Control System [pdf]()[ipynb]()
+- 
+
 ## Penyusun
 * [2black0](https://github.com/2black0)
 
