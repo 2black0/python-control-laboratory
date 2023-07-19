@@ -66,9 +66,15 @@ Mac OS : https://youtu.be/DahmsS2sVwk<br>
     ```
     pkg list
     ```
-## Daftar Labsheet
+## Daftar Labsheet Python
 - Labsheet 01: Preparation tool for Control System [[pdf]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-01.ipynb)
-- 
+- Labsheet 02: Preparation tool for Control System [[pdf]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-01.ipynb)
+- Labsheet 03: Preparation tool for Control System [[pdf]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-01.ipynb)
+- Labsheet 04: Preparation tool for Control System [[pdf]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-01.ipynb)
+- Labsheet 05: Preparation tool for Control System [[pdf]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-01.ipynb)
+- Labsheet 06: Preparation tool for Control System [[pdf]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-01.ipynb)
+- Labsheet 07: Preparation tool for Control System [[pdf]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-01.ipynb)
+- Labsheet 08: Preparation tool for Control System [[pdf]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-01.ipynb)
 
 ## Penyusun
 * [2black0](https://github.com/2black0)
