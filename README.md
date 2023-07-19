@@ -67,6 +67,7 @@ Mac OS : https://youtu.be/DahmsS2sVwk<br>
     pkg list
     ```
 ## Daftar Labsheet Python
+Silabus bisa dilihat pada link berikut [[pdf]](labsheet-python-pdf/syllabus.pdf)
 - Labsheet 01: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-01.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-01.ipynb)
 - Labsheet 02: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-01.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-01.ipynb)
 - Labsheet 03: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-01.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-01.ipynb)
