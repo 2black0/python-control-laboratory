@@ -2,6 +2,20 @@
 
 Ini adalah Jobsheet untuk Praktikum Sistem Kendali dengan Python dan GNU Octave untuk mahasiswa D4 Teknik Elektronika Fakultas Vokasi UNY.
 
+## Daftar Isi
+- [Deskripsi](https://github.com/2black0/python-control-laboratory#deskripsi)
+- [Memulai](https://github.com/2black0/python-control-laboratory#memulai)
+    - [Perangkat Keras Yang dibutuhkan](https://github.com/2black0/python-control-laboratory#perangkat-keras-yang-dibutuhkan)
+    - [Pemasangan Perangkat Lunak](https://github.com/2black0/python-control-laboratory#pemasangan-perangkat-lunak)
+      - [Python](https://github.com/2black0/python-control-laboratory#python)
+      - [GNU Octave](https://github.com/2black0/python-control-laboratory#gnu-octave)
+    - [Menyiapkan Environment dan Library Python](https://github.com/2black0/python-control-laboratory#menyiapkan-environment-dan-library-python)
+    - [Menyiapkan Paket GNU Octave](https://github.com/2black0/python-control-laboratory#menyiapkan-paket-gnu-octave)
+- [Daftar Labsheet Python](https://github.com/2black0/python-control-laboratory#daftar-labsheet-python)
+- [Penyusun](https://github.com/2black0/python-control-laboratory#penyusun)
+- [Version History](https://github.com/2black0/python-control-laboratory#version-history)
+- [Lisensi](https://github.com/2black0/python-control-laboratory#lisensi)
+
 ## Deskripsi
 
 Praktikum Sistem Kendali dengan Python dan GNU Octave adalah salah satu praktikum yang ditawarkan dalam program studi D4 Teknik Elektronika Fakultas Vokasi UNY. Praktikum ini bertujuan untuk memberikan pemahaman dan pengalaman praktis dalam menerapkan konsep sistem kendali menggunakan dua bahasa pemrograman populer, yaitu Python dan GNU Octave.
