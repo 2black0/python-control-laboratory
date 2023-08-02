@@ -82,7 +82,7 @@ Mac OS : https://youtu.be/DahmsS2sVwk<br>
     ```
 ## Daftar Labsheet Python
 Silabus bisa dilihat pada link berikut [[pdf]](labsheet-python-pdf/syllabus.pdf)
-- Labsheet 01: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-01.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-01.ipynb)
+- Labsheet 01: Preparation tool for Control System [[gdocs]]([labsheet-python-pdf/labsheet-01.pdf](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing)) [[ipynb]](labsheet-python-ipynb/labsheet-01.ipynb)
 - Labsheet 02: Modeling of Dynamic Systems [[pdf]](labsheet-python-pdf/labsheet-02.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-02.ipynb)
 - Labsheet 03: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-03.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-03.ipynb)
 - Labsheet 04: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-04.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-04.ipynb)
