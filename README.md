@@ -81,7 +81,7 @@ Mac OS : https://youtu.be/DahmsS2sVwk<br>
     pkg list
     ```
 ## Daftar Labsheet Python
-Silabus bisa dilihat pada link berikut [[gdocs]]([labsheet-python-pdf/syllabus.pdf](https://docs.google.com/document/d/1rauoA8oMDj4RAIvSfa9mq3bl632q0-VMDjnlmvjqLts/edit?usp=sharing))
+Silabus bisa dilihat pada link berikut [[gdocs]](https://docs.google.com/document/d/1rauoA8oMDj4RAIvSfa9mq3bl632q0-VMDjnlmvjqLts/edit?usp=sharing)
 - Labsheet 01: Introduction to Control Systems and Python [[gdocs]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-python-ipynb/labsheet-01.ipynb)
 - Labsheet 02: Modeling of Dynamic Systems [[gdocs]](https://docs.google.com/document/d/1gXOz9qUzctxbtGKHyAPzCsRzdTp0UIUP3Yp8oLF4hCA/edit?usp=sharing) [[ipynb]](labsheet-python-ipynb/labsheet-02.ipynb)
 - Labsheet 03: Time Response Analysis [[gdocs]](https://docs.google.com/document/d/1h37R378cPmfsTLDmN30hQAJf45AQDBtIj13UWxH-05A/edit?usp=sharing) [[ipynb]](labsheet-python-ipynb/labsheet-03.ipynb)
