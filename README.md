@@ -81,10 +81,10 @@ Mac OS : https://youtu.be/DahmsS2sVwk<br>
     pkg list
     ```
 ## Daftar Labsheet Python
-Silabus bisa dilihat pada link berikut [[pdf]](labsheet-python-pdf/syllabus.pdf)
-- Labsheet 01: Preparation tool for Control System [[gdocs]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-python-ipynb/labsheet-01.ipynb)
-- Labsheet 02: Modeling of Dynamic Systems [[pdf]](labsheet-python-pdf/labsheet-02.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-02.ipynb)
-- Labsheet 03: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-03.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-03.ipynb)
+Silabus bisa dilihat pada link berikut [[gdocs]]([labsheet-python-pdf/syllabus.pdf](https://docs.google.com/document/d/1rauoA8oMDj4RAIvSfa9mq3bl632q0-VMDjnlmvjqLts/edit?usp=sharing))
+- Labsheet 01: Introduction to Control Systems and Python [[gdocs]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-python-ipynb/labsheet-01.ipynb)
+- Labsheet 02: Modeling of Dynamic Systems [[gdocs]](https://docs.google.com/document/d/1gXOz9qUzctxbtGKHyAPzCsRzdTp0UIUP3Yp8oLF4hCA/edit?usp=sharing) [[ipynb]](labsheet-python-ipynb/labsheet-02.ipynb)
+- Labsheet 03: Time Response Analysis [[gdocs]](https://docs.google.com/document/d/1h37R378cPmfsTLDmN30hQAJf45AQDBtIj13UWxH-05A/edit?usp=sharing) [[ipynb]](labsheet-python-ipynb/labsheet-03.ipynb)
 - Labsheet 04: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-04.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-04.ipynb)
 - Labsheet 05: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-05.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-05.ipynb)
 - Labsheet 06: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-06.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-06.ipynb)
