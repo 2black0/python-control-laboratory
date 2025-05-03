@@ -1,105 +1,86 @@
-# Jobsheet Praktikum Sistem Kendali dengan Python dan GNU Octave
+# 🧪 Control System Laboratory Jobsheet with Python
 
-Ini adalah Jobsheet untuk Praktikum Sistem Kendali dengan Python dan GNU Octave untuk mahasiswa D4 Teknik Elektronika Fakultas Vokasi UNY.
+This repository contains **Control System Laboratory Jobsheets** using Python and Jupyter Notebook, developed for students of the **D4 Electronics Engineering Program, Faculty of Vocational Studies, UNY**. The laboratory sessions are designed to reinforce fundamental control system concepts through hands-on simulations and coding in Python.
 
-## Daftar Isi
-- [Deskripsi](https://github.com/2black0/python-control-laboratory#deskripsi)
-- [Memulai](https://github.com/2black0/python-control-laboratory#memulai)
-    - [Perangkat Keras Yang dibutuhkan](https://github.com/2black0/python-control-laboratory#perangkat-keras-yang-dibutuhkan)
-    - [Pemasangan Perangkat Lunak](https://github.com/2black0/python-control-laboratory#pemasangan-perangkat-lunak)
-      - [Python](https://github.com/2black0/python-control-laboratory#python)
-      - [GNU Octave](https://github.com/2black0/python-control-laboratory#gnu-octave)
-    - [Menyiapkan Environment dan Library Python](https://github.com/2black0/python-control-laboratory#menyiapkan-environment-dan-library-python)
-    - [Menyiapkan Paket GNU Octave](https://github.com/2black0/python-control-laboratory#menyiapkan-paket-gnu-octave)
-- [Daftar Labsheet Python](https://github.com/2black0/python-control-laboratory#daftar-labsheet-python)
-- [Penyusun](https://github.com/2black0/python-control-laboratory#penyusun)
-- [Version History](https://github.com/2black0/python-control-laboratory#version-history)
-- [Lisensi](https://github.com/2black0/python-control-laboratory#lisensi)
+## 📂 Repository Structure
 
-## Deskripsi
+```
 
-Praktikum Sistem Kendali dengan Python dan GNU Octave adalah salah satu praktikum yang ditawarkan dalam program studi D4 Teknik Elektronika Fakultas Vokasi UNY. Praktikum ini bertujuan untuk memberikan pemahaman dan pengalaman praktis dalam menerapkan konsep sistem kendali menggunakan dua bahasa pemrograman populer, yaitu Python dan GNU Octave.
+.
+├── labsheet                 # Main folder containing the practical notebooks
+│   ├── labsheet-01.ipynb    # Introduction to control systems and Python
+│   ├── labsheet-02.ipynb    # Dynamic system modeling
+│   └── labsheet-03.ipynb    # Time response analysis
+├── LICENSE                  # Project license
+└── README.md                # Project documentation
 
-Dalam praktikum ini, mahasiswa akan belajar mengenai prinsip dasar sistem kendali dan metode-metode yang digunakan untuk menganalisis dan merancang sistem kendali. Praktikum ini menggabungkan teori dengan penerapan langsung menggunakan perangkat lunak open-source, seperti Python dan GNU Octave, yang memberikan fleksibilitas dan kemudahan dalam memahami konsep-konsep yang diajarkan.
+```
 
-Pada awal praktikum, mahasiswa akan diperkenalkan dengan dasar-dasar sistem kendali, dimulai dari model matematika termasuk konsep umpan balik, fungsi transfer, diagram blok, dan metode analisis sistem kendali. Kemudian, mahasiswa akan belajar menggunakan bahasa pemrograman Python dan GNU Octave untuk melakukan simulasi sistem kendali, menganalisis respons sistem, dan merancang kontroler yang sesuai.
+## 🎯 Learning Objectives
 
-Selama praktikum, mahasiswa akan diberikan serangkaian tugas praktis, di mana mereka akan diberikan permasalahan kontrol yang berbeda dan diminta untuk mengimplementasikan solusi menggunakan Python dan GNU Octave. Mahasiswa akan belajar menggunakan library atau paket yang relevan, seperti NumPy, SciPy, Control, dan Octave Control Systems Toolbox, untuk memudahkan analisis dan desain sistem kendali.
+By completing this lab series, students will be able to:
+- Analyze control systems using Python.
+- Use libraries such as `control`, `scipy`, and `matplotlib` for system simulation.
+- Design simple controllers and evaluate system performance.
 
-## Memulai
+## 🚀 Getting Started
 
-### Perangkat Keras Yang dibutuhkan
+### 💻 System Requirements
+- Processor: Dual Core or better
+- RAM: At least 4 GB
+- OS: Windows / Linux / MacOS
 
-* Laptop dengan spesifikasi minimal:
-  * Prosesor 2 Core
-  * RAM 4GB
-  * Ruang Penyimpanan 10GB
-* Sistem Operasi Windows / Linux (Ubuntu) / Mac OS
+### 🔧 Software Installation
 
-### Pemasangan Perangkat Lunak
+#### 1. Install Python
+It is recommended to use [Miniconda](https://docs.conda.io/en/latest/miniconda.html) for environment management.
 
-#### Python
-Download Miniconda sesuai dengan Sistem Operasi yang digunakan pada link berikut: https://docs.conda.io/en/latest/miniconda.html dan lakukan proses instalasi sesuai dengan video tutorial berikut
-> Windows: https://youtu.be/r7XPcSNmWu4<br>
-Linux : https://youtu.be/SJBLJTGdj-g<br>
-Mac OS : https://youtu.be/4qS7qw9v884<br>
-#### GNU Octave
-Download GNU Octave Installer pada link berikut: https://octave.org/download dan lakukan proses instalasi sesuai dengan video tutorial berikut
-> Windwos: https://youtu.be/XeNENyPvzNw<br>
-Linux : https://youtu.be/KYs43qc3oRk<br>
-Mac OS : https://youtu.be/DahmsS2sVwk<br>
-### Menyiapkan Environment dan Library Python
-> Video Tutorial: https://youtu.be/XidmHRA29Xk
-* Buka Terimal pada Mac OS / Linux dan Anaconda Prompt pada Windows
-* Buat Environment Baru dengan perintah
-    ```
-    conda create --name control python=3.9
-    ```
-* Aktifkan Environment dengan perintah
-    ```
-    conda activate control
-    ```
-* Install Library Python Control
-    ```
-    conda install -c conda-forge control slycot
-    ```
-* Install Library Jupyter Notebook
-    ```
-    conda install -c anaconda jupyter
-    ```
-### Menyiapkan Paket GNU Octave
-> Video Tutorial: https://youtu.be/xHpKQUWihyU
-* Download File Control Module di link berikut: https://octave.sourceforge.io/control/
-* Buka GNU Octave GUI
-* Pada Command windows jalankan perintah
-    ```
-    pkg install control-3.5.0.tar.gz
-    ```
-* Tunggu hingga proses instalasi selesai
-* Check daftar module yang terinstall dengan perintah
-    ```
-    pkg list
-    ```
-## Daftar Labsheet Python
-Silabus bisa dilihat pada link berikut [[gdocs]](https://docs.google.com/document/d/1rauoA8oMDj4RAIvSfa9mq3bl632q0-VMDjnlmvjqLts/edit?usp=sharing)
-- Labsheet 01: Introduction to Control Systems and Python [[gdocs]](https://docs.google.com/document/d/1caqKi0XQLUGHIdjoMGd9ypgsFZt_dd88geRNLHEQj7k/edit?usp=sharing) [[ipynb]](labsheet-python-ipynb/labsheet-01.ipynb)
-- Labsheet 02: Modeling of Dynamic Systems [[gdocs]](https://docs.google.com/document/d/1gXOz9qUzctxbtGKHyAPzCsRzdTp0UIUP3Yp8oLF4hCA/edit?usp=sharing) [[ipynb]](labsheet-python-ipynb/labsheet-02.ipynb)
-- Labsheet 03: Time Response Analysis [[gdocs]](https://docs.google.com/document/d/1h37R378cPmfsTLDmN30hQAJf45AQDBtIj13UWxH-05A/edit?usp=sharing) [[ipynb]](labsheet-python-ipynb/labsheet-03.ipynb)
-- Labsheet 04: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-04.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-04.ipynb)
-- Labsheet 05: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-05.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-05.ipynb)
-- Labsheet 06: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-06.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-06.ipynb)
-- Labsheet 07: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-07.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-07.ipynb)
-- Labsheet 08: Preparation tool for Control System [[pdf]](labsheet-python-pdf/labsheet-08.pdf) [[ipynb]](labsheet-python-ipynb/labsheet-08.ipynb)
+#### 2. Create a Python Environment
+```bash
+conda create --name control python=3.9
+conda activate control
+```
 
-## Penyusun
+#### 3. Install Required Libraries
+
+```bash
+conda install -c conda-forge control slycot
+conda install -c anaconda jupyter matplotlib numpy scipy
+```
+
+#### 4. Launch Jupyter Notebook
+
+```bash
+jupyter notebook labsheet/
+```
+
+## 📘 Labsheet List
+
+| No | Title                           | Description                                                        |
+| -- | ------------------------------- | ------------------------------------------------------------------ |
+| 01 | Introduction to Control Systems | Covers transfer functions, feedback, and plotting responses        |
+| 02 | Dynamic System Modeling         | Explains first- and second-order system models                     |
+| 03 | Time Response Analysis          | Simulates impulse, step, and ramp responses of closed-loop systems |
+
+You can view the full syllabus on [Google Docs](https://docs.google.com/document/d/1rauoA8oMDj4RAIvSfa9mq3bl632q0-VMDjnlmvjqLts/edit?usp=sharing).
+
+## 👨‍🏫 Author
+
+This lab series was developed by:
+
 * [2black0](https://github.com/2black0)
 
-## Version History
+## 🕒 Version History
 
-* Versi 1
-    * Versi Awal Python
-    * Versi Awal GNU Octave
+* **Version 1.0**
 
-## Lisensi
+  * Labsheet 01 – 03 available
+  * Python-based only (Octave not included in this version)
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+> 📢 For feedback, contributions, or issues, please open an *issue* on this repository.
