@@ -1,60 +1,40 @@
 # 🧪 Control System Laboratory Jobsheet with Python
 
-This repository contains **Control System Laboratory Jobsheets** using Python and Jupyter Notebook, developed for students of the **D4 Electronics Engineering Program, Faculty of Vocational Studies, UNY**. The laboratory sessions are designed to reinforce fundamental control system concepts through hands-on simulations and coding in Python.
+This repository contains a collection of **Control System Laboratory Jobsheets and Assignments** developed using Python and Jupyter Notebook. It is designed for students in the **D4 Electronics Engineering Program** at the **Faculty of Vocational Studies, UNY**. The purpose of this repository is to enhance understanding of control systems through simulations, coding practices, and guided exercises.
 
-## 📂 Repository Structure
+---
+
+## 📁 Repository Structure
 
 ```
-
 .
-├── labsheet                 # Main folder containing the practical notebooks
-│   ├── labsheet-01.ipynb    # Introduction to control systems and Python
-│   ├── labsheet-02.ipynb    # Dynamic system modeling
-│   └── labsheet-03.ipynb    # Time response analysis
-├── LICENSE                  # Project license
-└── README.md                # Project documentation
-
+├── assignment                # Assignments and teaching materials per meeting
+│   ├── 01-meeting            # Meeting 1: Labs, tasks, and handouts
+│   ├── 02-meeting            # Meeting 2: Defuzzification and fuzzy logic tasks
+│   ├── latex-template        # Pandoc LaTeX templates for PDF generation
+│   └── tool                  # Conversion tools for IPYNB to PDF
+├── labsheet                 # Practical labs using Python
+│   ├── labsheet-01.ipynb
+│   ├── labsheet-02.ipynb
+│   └── labsheet-03.ipynb
+├── LICENSE
+└── README.md
 ```
+
+---
 
 ## 🎯 Learning Objectives
 
-By completing this lab series, students will be able to:
-- Analyze control systems using Python.
-- Use libraries such as `control`, `scipy`, and `matplotlib` for system simulation.
-- Design simple controllers and evaluate system performance.
+Through the labsheets and assignments, students will be able to:
 
-## 🚀 Getting Started
+* Understand the foundations of control systems.
+* Apply Python libraries such as `control`, `scipy`, `numpy`, and `matplotlib` to simulate systems.
+* Design and analyze controllers using real-world case studies.
+* Learn fuzzy logic techniques and implement defuzzification methods such as MOM, SOM, and Centroid.
 
-### 💻 System Requirements
-- Processor: Dual Core or better
-- RAM: At least 4 GB
-- OS: Windows / Linux / MacOS
+---
 
-### 🔧 Software Installation
-
-#### 1. Install Python
-It is recommended to use [Miniconda](https://docs.conda.io/en/latest/miniconda.html) for environment management.
-
-#### 2. Create a Python Environment
-```bash
-conda create --name control python=3.9
-conda activate control
-```
-
-#### 3. Install Required Libraries
-
-```bash
-conda install -c conda-forge control slycot
-conda install -c anaconda jupyter matplotlib numpy scipy
-```
-
-#### 4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook labsheet/
-```
-
-## 📘 Labsheet List
+## 🧪 Labsheets
 
 | No | Title                           | Description                                                        |
 | -- | ------------------------------- | ------------------------------------------------------------------ |
@@ -62,20 +42,86 @@ jupyter notebook labsheet/
 | 02 | Dynamic System Modeling         | Explains first- and second-order system models                     |
 | 03 | Time Response Analysis          | Simulates impulse, step, and ramp responses of closed-loop systems |
 
-You can view the full syllabus on [Google Docs](https://docs.google.com/document/d/1rauoA8oMDj4RAIvSfa9mq3bl632q0-VMDjnlmvjqLts/edit?usp=sharing).
+🔗 [View Full Syllabus](https://docs.google.com/document/d/1rauoA8oMDj4RAIvSfa9mq3bl632q0-VMDjnlmvjqLts/edit?usp=sharing)
+
+---
+
+## 📝 Assignments
+
+Assignments are organized by meeting and include:
+
+### 📘 01-meeting
+
+* Control system introduction tasks in `.ipynb` and `.pdf` formats
+* Markdown notes and exercises
+
+### 📘 02-meeting
+
+* Fuzzy logic and defuzzification methods with diagrams
+* Exercises on bisector, centroid, MOM, SOM, LOM
+* Revisions and evaluation tasks
+
+### 📘 latex-template
+
+* Custom templates for exporting assignments as high-quality PDFs using `pandoc`
+
+### 🛠️ tool
+
+* Scripts and notebooks to convert Jupyter files (`.ipynb`) into LaTeX or PDF documents
+
+---
+
+## ⚙️ Setup Instructions
+
+### 💻 System Requirements
+
+* CPU: Dual Core or higher
+* RAM: ≥ 4 GB
+* OS: Windows / Linux / macOS
+
+### 🐍 Python Environment Setup
+
+We recommend using [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
+
+1. **Create and activate environment:**
+
+```bash
+conda create --name control python=3.9
+conda activate control
+```
+
+2. **Install required libraries:**
+
+```bash
+conda install -c conda-forge control slycot
+conda install -c anaconda jupyter matplotlib numpy scipy
+```
+
+3. **Launch Jupyter Notebook:**
+
+```bash
+jupyter notebook labsheet/
+```
+
+---
 
 ## 👨‍🏫 Author
 
-This lab series was developed by:
+Developed by:
 
 * [2black0](https://github.com/2black0)
 
+---
+
 ## 🕒 Version History
 
-* **Version 1.0**
+* **v1.0**
 
-  * Labsheet 01 – 03 available
-  * Python-based only (Octave not included in this version)
+  * Labsheet 01–03 added
+  * Assignment Meeting 1 & 2 added
+  * Python-only (Octave version coming soon)
+
+---
 
 ## 📄 License
 
@@ -83,4 +129,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> 📢 For feedback, contributions, or issues, please open an *issue* on this repository.
+> 💬 For feedback, issues, or contributions, feel free to [open an issue](https://github.com/2black0/control-system-lab-python/issues) on this repository.
